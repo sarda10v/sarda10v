@@ -2,7 +2,7 @@
 
 ![CodeWars](https://www.codewars.com/users/Sarda10v/badges/small)
 
-<h1>Мой стек:</h1>
+<h3>Мой стек:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -26,7 +26,7 @@
 </br>
 </br>
 
-<h1>Связь со мной:</h1>
+<h3>Связь со мной:</h3>
 
 [Телеграм](https://t.me/sarda10v) -
 [Инстаграм](https://www.instagram.com/sarda10v) -
