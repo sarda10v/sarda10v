@@ -5,14 +5,12 @@
 Волонтерская платформа: где приюты и пользователи могут добавлять своих питомцев которых могут забрать люди, а также возможность добавить своего питомца в раздел "отдать на присмотр" (за деньги), а также приюты могут объявлять сбор и добавлять новости
 
 * #### [client-code](https://github.com/JolyGolfqw/second-life)
-
 * #### [backend-code](https://github.com/JolyGolfqw/second-life-back)
 
 ***
 Авторская площадка: где пользователи могут добавлять свои работы (книги), возможность лайкать, оставлять комментарии а также подписываться друг на друга.
 
 * #### [client-code](https://github.com/JolyGolfqw/wattpad-frontend)
-
 * #### [backend-code](https://github.com/JolyGolfqw/wattpad-backend)
 
 ***
@@ -47,7 +45,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11490474241551942136-512.png" />
-</br>
 </br>
 
 ***
