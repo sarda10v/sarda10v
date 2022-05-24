@@ -50,8 +50,6 @@
 ***
 <h2>Связь со мной:</h2>
 
-* #### [Телеграм](https://t.me/sarda10v)
-* #### [Инстаграм](https://www.instagram.com/sarda10v)
-* #### [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+[Телеграм](https://t.me/sarda10v) - [Инстаграм](https://www.instagram.com/sarda10v) - [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
 
 ***
