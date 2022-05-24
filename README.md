@@ -9,15 +9,14 @@
 [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
 
 <h2>Мой стек:</h2>
-
+<ul>
 <li>HTML - CSS - JavaScript;</li>
 <li>React - React Hooks - React Router;</li>
 <li>Redux - Redux Thunk - Redux Devtools;</li>
 <li>Express - Prettier - Bcrypt - Mongoose - Cors;</li>
 <li> Git - Github - Node JS - Webpack - Mongo DB;</li>
 <li> Bootstrap - Material UI- Lottie;</li>
-
-</br>
+</ul>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
