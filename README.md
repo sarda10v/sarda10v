@@ -1,7 +1,4 @@
 <h1>Всем привет, меня зовут Ибрагим!</h1>
-
-![CodeWars](https://www.codewars.com/users/Sarda10v/badges/small)
-
 <h2>Связь со мной:</h2>
 
 [Телеграм](https://t.me/sarda10v) -
