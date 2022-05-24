@@ -29,6 +29,6 @@
 
 <h1>Связь со мной:</h1>
 
-[<h3><li>Телеграм</li></h3>](https://t.me/sarda10v)
-[<h3><li>Инстаграм</li></h3>](https://www.instagram.com/sarda10v)
-[<h3><li>Email</li></h3>](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+[<h3>Телеграм</h3>](https://t.me/sarda10v)
+[<h3>Инстаграм</h3>](https://www.instagram.com/sarda10v)
+[<h3>Email</li>](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
