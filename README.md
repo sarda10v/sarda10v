@@ -1,7 +1,6 @@
 <h1>Всем привет, меня зовут Ибрагим!</h1>
 
 ![CodeWars](https://www.codewars.com/users/Sarda10v/badges/small)
-</br>
 
 <h1>Мой стек:</h1>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
