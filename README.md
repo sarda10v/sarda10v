@@ -1,5 +1,9 @@
 # Всем привет, меня зовут Ибрагим!
 
+---
+![CodeWars](https://www.codewars.com/users/Sarda10v/badges/large)
+---
+
 ### Мой стек:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
