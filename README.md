@@ -2,8 +2,13 @@
 
 ![CodeWars](https://www.codewars.com/users/Sarda10v/badges/small)
 
+<h2>Связь со мной:</h2>
+
+[Телеграм](https://t.me/sarda10v) -
+[Инстаграм](https://www.instagram.com/sarda10v) -
+[Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+
 <h2>Мой стек:</h2>
-</br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -26,10 +31,4 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11490474241551942136-512.png" />
 
-</br>
-</br>
-<h2>Связь со мной:</h2>
 
-[Телеграм](https://t.me/sarda10v) -
-[Инстаграм](https://www.instagram.com/sarda10v) -
-[Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
