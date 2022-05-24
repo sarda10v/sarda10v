@@ -20,5 +20,4 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<img align="left" alt="ReduxThunk" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.pnghttps://cdn-images-1.medium.com/max/480/1*tOI6UC5EaS2fPItCesI-AQ.png
-" style="padding-right:10px;" />
+<img align="left" alt="ReduxThunk" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" style="padding-right:10px;" />
