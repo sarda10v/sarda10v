@@ -23,12 +23,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11490474241551942136-512.png" />
-
 </br>
 </br>
 
 <h1>Связь со мной:</h1>
 
-[<h3>Телеграм</h3>](https://t.me/sarda10v)
-[<h3>Инстаграм</h3>](https://www.instagram.com/sarda10v)
-[<h3>Email</li>](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+[Телеграм](https://t.me/sarda10v) -
+[Инстаграм](https://www.instagram.com/sarda10v) -
+[Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
