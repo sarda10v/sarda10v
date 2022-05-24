@@ -1,21 +1,21 @@
-<h1>Всем привет, меня зовут Ибрагим!</h1>
+<h1>Всем привет, меня зовут Ибрагим и Я Frontend разработчик!</h1>
 
 ## Мои проекты:
 
 Волонтерская платформа: где приюты и пользователи могут добавлять своих питомцев которых могут забрать люди, а также возможность добавить своего питомца в раздел "отдать на присмотр" (за деньги), а также приюты могут объявлять сбор и добавлять новости
 
-* #### [client-code](https://github.com/JolyGolfqw/second-life)
-* #### [backend-code](https://github.com/JolyGolfqw/second-life-back)
+- [client-code](https://github.com/JolyGolfqw/second-life)
+- [backend-code](https://github.com/JolyGolfqw/second-life-back)
 
 ***
 Авторская площадка: где пользователи могут добавлять свои работы (книги), возможность лайкать, оставлять комментарии а также подписываться друг на друга.
 
-* #### [client-code](https://github.com/JolyGolfqw/wattpad-frontend)
-* #### [backend-code](https://github.com/JolyGolfqw/wattpad-backend)
+- [client-code](https://github.com/JolyGolfqw/wattpad-frontend)
+- [backend-code](https://github.com/JolyGolfqw/wattpad-backend)
 
 ***
 
-<h2>Мой стек:</h2>
+<h2>Мой стек технологий, с которым я работал:</h2>
 <ul>
 <li>HTML - CSS - JavaScript;</li>
 <li>React - React Hooks - React Router;</li>
