@@ -1,7 +1,7 @@
 # Всем привет, меня зовут Ибрагим!
 
 
-![CodeWars](https://www.codewars.com/users/Sarda10v/badges/large)
+[CodeWars](https://www.codewars.com/users/Sarda10v/badges/small)
 
 
 ### Мой стек:
