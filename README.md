@@ -37,12 +37,16 @@ GitHub репозиторий проекта:
 
 <h2>Мой стек технологий, с которым я работал:</h2>
 <ul>
-<li>HTML - CSS - JavaScript;</li>
-<li>React - React Hooks - React Router;</li>
+<li>HTML - CSS - JavaScript - Typescript;</li>
+<li>React - React Hooks - React Router Dom;</li>
 <li>Redux - Redux Thunk - Redux-Toolkit - Redux Devtools;</li>
-<li>Express - Prettier - Bcrypt - Mongoose - Cors;</li>
 <li> Git - Github - Node JS - Webpack - Mongo DB;</li>
+<li> Express - Prettier - Bcrypt - Mongoose - Cors;</li>
+<li> Storybook - Eslint - Stylelint - Babel - Tests;</li>
 <li> Bootstrap - Material UI- Lottie;</li>
+<li> NPM - YARN;</li>
+
+
 </ul>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -73,5 +77,6 @@ GitHub репозиторий проекта:
 
 
 - [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
+- [Телеграм](https://t.me/sarda10v)
 
 ---
