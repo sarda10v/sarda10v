@@ -13,39 +13,14 @@ GitHub репозиторий проекта:
 
 ---
 
-Название проекта "Хатико"
-
-Волонтерская платформа, где приюты и пользователи могут добавлять своих питомцев, которых могут забрать люди. В приложении есть возможность добавить своего питомца в раздел "Отдать на присмотр" (за деньги), а также приюты могут объявлять сбор и добавлять новости.
-
-GitHub репозиторий проекта:
-
-- [frontend](https://github.com/JolyGolfqw/second-life)
-- [backend](https://github.com/JolyGolfqw/second-life-back)
-
----
-
-Название проекта "Santeptar"
-
-Авторская площадка, где пользователи могут добавлять свои работы (книги). У пользователей есть возможность лайкать, оставлять комментарии, а также подписываться друг на друга.
-
-GitHub репозиторий проекта:
-
-- [frontend](https://github.com/JolyGolfqw/wattpad-frontend)
-- [backend](https://github.com/JolyGolfqw/wattpad-backend)
-
----
-
 <h2>Мой стек технологий, с которым я работал:</h2>
 <ul>
 <li>HTML - CSS - JavaScript - Typescript;</li>
-<li>React - React Hooks - React Router Dom;</li>
-<li>Redux - Redux Thunk - Redux-Toolkit - Redux Devtools;</li>
-<li> Git - Github - Node JS - Webpack - Mongo DB;</li>
-<li> Express - Prettier - Bcrypt - Mongoose - Cors;</li>
-<li> Storybook - Eslint - Stylelint - Babel - Tests;</li>
-<li> Bootstrap - Material UI- Lottie;</li>
+<li>React - Redux - Redux Thunk - Redux-Toolkit;</li>
+<li> Git - Node JS - Webpack;</li>
+<li> Storybook - Eslint - Stylelint;</li>
+<li> Bootstrap - Material UI;</li>
 <li> NPM - YARN;</li>
-
 
 </ul>
 
@@ -62,8 +37,6 @@ GitHub репозиторий проекта:
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
@@ -74,7 +47,6 @@ GitHub репозиторий проекта:
 ---
 
 <h2>Связь со мной:</h2>
-
 
 - [Email](https://e.mail.ru/inbox/?app_id_mytracker=58519&authid=l3k2bh59.ui&back=1%2C1&dwhsplit=s10273.b1ss12743s&from=login%2Cnavi&x-login-auth=1&afterReload=1)
 - [Телеграм](https://t.me/sarda10v)
