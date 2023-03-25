@@ -16,7 +16,8 @@ GitHub репозиторий проекта:
 <h2>Мой стек технологий, с которым я работал:</h2>
 <ul>
 <li>HTML - CSS - JavaScript - Typescript;</li>
-<li>React - Redux - Redux Thunk - Redux-Toolkit;</li>
+<li>React 17/18 - Redux;</li>
+<li>Redux Thunk - Redux-Toolkit;</li>
 <li> Git - CI/CD - Webpack;</li>
 <li> Storybook - Eslint - Stylelint;</li>
 <li> Bootstrap - Material UI;</li>
