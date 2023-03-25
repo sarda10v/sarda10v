@@ -22,7 +22,7 @@ GitHub репозиторий проекта:
 <li> Storybook - Eslint - Stylelint;</li>
 <li> Bootstrap - Material UI;</li>
 <li> NPM - YARN;</li>
-<li> NodeJS - Express - MongoDB;</li>
+<li> NodeJS - Express - MongoDB.</li>
   
 
 </ul>
