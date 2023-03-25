@@ -17,7 +17,7 @@ GitHub репозиторий проекта:
 <ul>
 <li>HTML - CSS - JavaScript - Typescript;</li>
 <li>React - Redux - Redux Thunk - Redux-Toolkit;</li>
-<li> Git - Node JS - Webpack;</li>
+<li> Git - CI/CD - Webpack;</li>
 <li> Storybook - Eslint - Stylelint;</li>
 <li> Bootstrap - Material UI;</li>
 <li> NPM - YARN;</li>
