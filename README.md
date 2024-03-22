@@ -1,18 +1,5 @@
 <h1>Всем привет, меня зовут Ибрагим и Я Frontend разработчик!</h1>
 
-## Участвовал в разработке следующих проектов:
-
-Название проекта "IQA"
-
-Приложение для IT-соискателей. С песочницей, обсуждениями и рейтингом.
-
-GitHub репозиторий проекта:
-
-- [frontend](https://github.com/sarda10v/iqa-frontend)
-- [backend](https://github.com/sarda10v/iqa-backend)
-
----
-
 <h2>Мой стек технологий, с которым я работал:</h2>
 <ul>
 <li>HTML - CSS - JavaScript - Typescript;</li>
